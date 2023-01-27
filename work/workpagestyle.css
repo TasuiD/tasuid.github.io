@@ -62,36 +62,29 @@ body
 
 .main-container
 {
-    padding-top: 49px;
 }
 
-.work01
+.workinfo-container
 {
-    padding-top: 15px;
-    padding-bottom: 15px;
-    padding-left: 30px;
-    padding-right: 30px;
-    background-color:#FFBB73;
-    color:#FFFFFF;
+    width: 30%;
+    padding-left:20% ;
+    padding-bottom: 10%;
 }
 
-.work01:hover
-{ 
-
-    color: #FFBB73;
-    background-color: #FFFFFF; 
-} 
-
-.about-countainer
+.workimg-countainer
 {
-    padding-top: 8%;
-    padding-left: 15%;
-}
-
-.about-text
-{
+    padding-bottom: 0px;
     padding-top: 3%;
-    padding-right: 25%;
+    padding-left:0;
+     
+}
+
+.specimendownload
+{
+    padding: 0.5%;
+    border-style:dashed;
+    text-decoration: none;
+    color: #333333; 
 }
 
 .footer-container
