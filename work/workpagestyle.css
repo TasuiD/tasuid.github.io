@@ -61,7 +61,7 @@ body
 .main-container
 {
     margin-left: 10%;
-    padding-top: 49px;
+    margin-top: 1%;
 }
 
 .workinfo-container
@@ -73,7 +73,6 @@ body
 
 .workimg-countainer
 {
-    padding-bottom: 0px;
     padding-top: 3%;
     padding-left:0;
      
