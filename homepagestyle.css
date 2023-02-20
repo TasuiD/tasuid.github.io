@@ -98,6 +98,23 @@ body
     color: #000000;
     background-color: #b4a389; 
 } 
+.work03
+{
+    padding-top: 5%;
+    padding-bottom: 8%;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color:#000000;
+    color:#FFFFFF;
+
+}
+
+.work03:hover
+{ 
+
+    color: #000000;
+    background-color: #214e3d; 
+} 
 
 .workinfo
 {
