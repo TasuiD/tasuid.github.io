@@ -64,29 +64,34 @@ body
 .main-container
 {
     margin-left: 10%;
+    padding-top:4%;
+
 }
 
-.workinfo-container
+.imgline
 {
-    width: 30%;
-    padding-left:20% ;
-    padding-bottom: 10%;
+    padding-left: 3%;
+    padding-right: 5%;
+    clear:both;
 }
 
-.workimg-countainer
+.imgbox
 {
-    padding-top: 3%;
-    padding-left:0;
-     
+    padding-left: 2%;
+    padding-bottom: 3%;
+    width:23%;
+    display: inline-block;
+    vertical-align: top;
+    float:left;
 }
 
-.specimendownload
+.img
 {
-    padding: 0.5%;
-    border-style:dashed;
-    text-decoration: none;
-    color: #333333; 
+    width:100%;
+
 }
+
+
 
 .footer-container
 {
@@ -100,9 +105,3 @@ body
     border-top: solid 2px black;
 }
 
-.copyright
-{
-    text-align: center;
-    font-size: small;
-    color: slategrey;
-}
