@@ -106,6 +106,15 @@ body
     background-color: #eac6a2; 
 } 
 
+.font05:hover
+{ 
+
+    color: #000000;
+    background-color: #de4b42; 
+} 
+
+
+
 .workinfo
 {
     text-align: center; 
